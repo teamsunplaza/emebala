@@ -22,6 +22,7 @@
 |------|:---:|------|
 | [**Emebala_v0.10.0_Setup.exe**](https://github.com/teamsunplaza/emebala/releases/download/v0.10.0/Emebala.Setup.0.10.0.exe) | 433 MB | App installer (NSIS) |
 | [**hy-mt1.5-1.8b.gguf**](https://github.com/teamsunplaza/emebala/releases/download/v0.10.0/hy-mt1.5-1.8b.gguf) | 1.13 GB | AI translation model (download separately) |
+| [**samplebooks.zip**](https://github.com/teamsunplaza/emebala/releases/download/v0.10.0/samplebooks.zip) | 6.0 MB | Sample EPUB/PDF books for testing |
 | [**emebala_manual_en.pdf**](https://github.com/teamsunplaza/emebala/releases/download/v0.10.0/emebala_manual_en.pdf) | 4.1 MB | English user manual |
 | [**emebala_manual_kr.pdf**](https://github.com/teamsunplaza/emebala/releases/download/v0.10.0/emebala_manual_kr.pdf) | 5.4 MB | Korean user manual |
 | [**Things_you_must_know.txt**](https://github.com/teamsunplaza/emebala/releases/download/v0.10.0/Things_you_must_know.txt) | 51 KB | Model setup guide in 38 languages |
